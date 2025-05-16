@@ -1,3 +1,7 @@
+#
+# ここを参考にしました
+# https://github.com/alexanderfast/roguelike-dungeon-generator/blob/master/dungeon.py
+#
 import random
 import itertools
 
